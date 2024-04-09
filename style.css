@@ -1,0 +1,29 @@
+img{width: 300px; height: 200px; display: flex;}
+p {
+    color: rgb(3, 3, 24);
+    font-size: 55px;
+    font-style: normal;
+    text-align: center;
+text-shadow: 
+ 1px 1px 1px rgb(175, 243, 255) ,
+ 2px 2px 1px rgb(175, 243, 255);
+}
+g {
+    color: rgb(17, 22, 22);
+    font-style: normal;
+    font-size: 35px;
+    flex-direction: overline;
+}
+k {
+    color: rgb(37, 18, 18);
+    display: flex;
+    font-style: normal;
+    font-size: 25px;
+}
+e {
+    color: rgb(0, 0, 0);
+    font-size: 15px;
+    font-style: normal;
+    flex-direction: overline;
+}
+button{width: 150px; font-size: 15px; background-color: rgb(192, 252, 232); height: 70px;}
